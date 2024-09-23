@@ -1,4 +1,4 @@
 # Pinball 
-Use `make` to build. \\
-`pinball` outputs screen recording. \\
+Use `make` to build. <br> 
+`pinball` outputs screen recording. <br> 
 Use `--recursive` when using `git clone`.
